@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bài-4</title>
+</head>
+<body>
+<p>Viết chương trình khởi tạo/nhập vào một mảng số nguyên và đảo ngược các phần tử trong mảng đó.</p>
+<hr>
+<input id="text" type="text">
+<input onclick="myfunc()" id="SUBMIT" type="button" value="ADD">
+<input id="display_but" type="button" value="display" onclick="display_func()">
+<div id="display"></div>
+<script>
+    let arr = [];
+    let number =Number(document.getElementById('text').value);
+
+    function myfunc() {
+        let number =Number(document.getElementById('text').value);
+        arr.push(number);
+        console.log(arr);
+        text.value = " ";
+    }
+
+    function display_func() {
+        arr.reverse();
+        document.getElementById('display').innerHTML = arr;
+    }
+
+</script>
+</body>
+</html>

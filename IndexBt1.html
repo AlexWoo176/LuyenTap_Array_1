@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<!--<script>-->
+<!--    let arr = [1, 9, 14, 6, 26, 2, 64, 4, 96, 67]-->
+<!--    let result = 0;-->
+<!--    for (let i = 0; i < arr.length; i++) {-->
+<!--        if(arr[i] >= 10) {-->
+<!--            result++;-->
+<!--        }-->
+<!--    }-->
+<!--    document.write("Mảng arr có " + result+ " phần tử lớn hơn hoặc bằng 10");-->
+<!--</script>-->
+<p>Viết chương trình khởi tạo mảng số nguyên gồm 10 phần tử. Chương trình thực hiện tính và hiển thị xem có bao nhiêu số nguyên lớn hơn hoặc bằng 10</p>
+<hr>
+<input id="text" type="text">
+<input onclick="myfunc()" id="SUBMIT" type="button" value="ADD">
+<input id="display_but" type="button" value="display" onclick="display_func()">
+<div id="display"></div>
+<script>
+    let arr = [];
+    let result = [];
+    
+    function myfunc() {
+        let number = document.getElementById('text').value;
+        arr.push(number);
+        console.log(arr);
+        text.value = " ";
+    }
+    
+    function display_func() {
+        for (let i = 0; i < arr.length ; i++) {
+            if (arr[i] >=10) {
+                result.push(arr[i])
+            }
+        } document.write("Mảng [arr] có các phần tử " + result + " lớn hơn hoặc bằng 10");
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Viết chương trình khởi tạo mảng số nguyên gồm 10 phần tử khác nhau. Chương trình hiển thị ra được phần tử có giá trị lớn nhất trong mảng và vị trí của phần tử đó.</p>
+<hr>
+<input id="text" type="text">
+<input onclick="myfunc()" id="SUBMIT" type="button" value="ADD">
+<input id="display_but" type="button" value="display" onclick="display_func()">
+<div id="display"></div>
+<div id="average"></div>
+
+<script>
+    let arr = [];
+    function myfunc() {
+        let number = Number(document.getElementById('text').value);
+        arr.push(number);
+        console.log(arr);
+        text.value = " ";
+    }
+    
+    function display_func() {
+        let max = arr[0];
+        let result = 0;
+        for (let i = 0; i < arr.length; i++) {
+            if (max<arr[i]) {
+                max=arr[i];
+            }
+        } document.getElementById('display').innerHTML ='Giá trị max là:' + ""+max;
+        for (let j = 0; j < arr.length ; j++) {
+            result +=arr[j];
+        }
+        result = result/arr.length;
+        document.getElementById('average').innerHTML='Giá trị trung bình của mảng là:'+" "+result;
+    }
+</script>
+</body>
+</html>
