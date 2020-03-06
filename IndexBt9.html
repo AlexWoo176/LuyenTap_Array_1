@@ -2,9 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Bai-9</title>
 </head>
 <body>
-
+<input id="but_add" type="button" value="ADD" onclick="but_add()" >
+<input id="but_display" type="button" value="DISPLAY" onclick="but_display()" >
+<p id="display"></p>
+<script>
+    let arr_a = [];
+    let arr_b = [];
+    function but_add() {
+        for (let count=0;count<40;count++){
+            if (count<20){
+                let word_a = prompt('Nhập phần tử mảnh a:');
+                arr_a.push(word_a);
+            }
+            else {
+                let word_b = prompt('Nhập phần tử mảng b:');
+                arr_b.push(word_b);
+            }
+        }
+    }
+    function but_display() {
+        let connect = arr_a.concat(arr_b);
+        document.getElementById('display').innerHTML=connect
+        console.log(connect)
+    }
+</script>
 </body>
 </html>

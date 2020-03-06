@@ -2,9 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Bai-7</title>
 </head>
 <body>
-
+<input id="input_arr" type="text">
+<input id="but_add" type="button" value="ADD" onclick="but_add()">
+<input id="but_display" type="button" value="DISPLAY" onclick="but_display()">
+<script>
+    let arr = [];
+    function but_add() {
+        let but_add = +document.getElementById('input_arr').value;
+        arr.push(but_add);
+        input_arr.value = ' ';
+        console.log(arr);
+    }
+    function but_display() {
+        let v = +prompt('Nhập giá trị');
+        for (let i = 0; 0 < arr.length; i++) {
+            if (v == arr[i]) {
+                arr.splice(i,1);
+                arr.push(0);
+                console.log(arr);
+                break;
+            }
+        }
+    }
+</script>
 </body>
 </html>

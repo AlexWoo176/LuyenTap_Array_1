@@ -2,9 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Bai-6</title>
 </head>
 <body>
-
-</body>
-</html>
+<input id="input_arr" type="text">
+<input id="but_add" type="button" value="ADD" onclick="but_add()">
+<input id="but_display" type="button" value="DISPLAY" onclick="but_display()">
+<script>
+    let arr = [];
+    function but_add() {
+        let add_value =Number(document.getElementById('input_arr').value);
+        arr.push(add_value);
+        input_arr.value=' ';
+        console.log(arr);
+    }
+    function but_display() {
+        let word = (prompt('Nhập giá trị của V:'))
+        let j = arr.length;
+        let result = false;
+        console.log(word);
+        for (let i =0 ; i<j;i++){
+            if (arr[i]==word){
+                result=true;
+            }
+        }
+        if (result){
+            alert('V là số nằm trong mảng');
+        }
+        else {
+            alert('V không nằm trong mảng');
+        }
+    }
+</script>

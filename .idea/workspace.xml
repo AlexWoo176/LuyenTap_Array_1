@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3418270-c23b-4cc5-ad93-f6c1a3e64299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/Adam &amp; Eva.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/Js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Array_Js/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Array_Js/Js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt1.html" afterDir="false" />
@@ -28,16 +34,40 @@
       <change afterPath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meters/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Curriculum-Vitae/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Curriculum-Vitae/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/Danh_Sach_Sinh_Vien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DaoNguoc_Array/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DaoNguoc_Array/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DemoFunciton/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/Index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/js/app2.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/Css/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/Js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Faking Textarea on Typing/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Faking Textarea on Typing/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funny_Circles/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funny_Circles/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_Caro/Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_Caro/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_Caro/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_DiChuyenDoiTuong/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_DiChuyenDoiTuong/images/pikachu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_DiChuyenDoiTuong/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_LaiXe/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_LaiXe/Js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Good-fast-cheap/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Good-fast-cheap/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoatDong_DenPin/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoatDong_DenPin/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork1/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork1/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LsNH/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LsNH/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT1.html" afterDir="false" />
@@ -63,15 +93,26 @@
       <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT7.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT8.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IndexBt9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_HackkerRank/hackkerrank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_DienThoai/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_DienThoai/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_DienThoai/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_HinhChuNhat/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_HinhChuNhat/Js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../So_Nguyen_To/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../So_Nguyen_To/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Su_Dung_Cac_Ham_Co_San_Array/IndexBt2.html" afterDir="false" />
@@ -80,6 +121,10 @@
       <change afterPath="$PROJECT_DIR$/../TaoBan_Caro/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TaoBan_Caro/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TemperatureConverter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XD_Lop_Hinh_Tron/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XD_Lop_Hinh_Tron/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XayDungLop_Date/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XayDungLop_Date/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tic tac toe/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tic tac toe/js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TimGiaTriMax_Array/Index.html" afterDir="false" />
@@ -87,6 +132,11 @@
       <change afterPath="$PROJECT_DIR$/../Tim_Min_Array/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TuDien/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TuDien/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuongTac_Button&amp;Lamp/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuongTac_Button&amp;Lamp/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ung_Dung_Quan_Ly_SP/Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ung_Dung_Quan_Ly_SP/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ung_Dung_Quan_Ly_SP/Js/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vong_Lap_for/IndexBT1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vong_Lap_for/IndexBT2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vong_Lap_for/js/appBT1.js" afterDir="false" />
@@ -96,6 +146,8 @@
       <change afterPath="$PROJECT_DIR$/../Vong_lap_while/indexBT2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vong_lap_while/js/appBT1.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vong_lap_while/js/appBT2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XD_LopMoTa_Temperature/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XD_LopMoTa_Temperature/Js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Body Mass Index/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Body Mass Index/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/.idea/workspace.xml" afterDir="false" />
@@ -104,6 +156,8 @@
       <change beforePath="$PROJECT_DIR$/../Curriculum Vitae/css/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Curriculum Vitae/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Game puzzle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Game puzzle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IndexBt5.html" beforeDir="false" afterPath="$PROJECT_DIR$/IndexBt5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Simple Calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Calculator/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TinhSoNgayTrongThang/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TinhSoNgayTrongThang/Index.html" afterDir="false" />
     </list>
@@ -117,12 +171,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IndexBt5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="442">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -137,7 +191,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -193,6 +247,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -240,11 +295,12 @@
       <workItem from="1582785226051" duration="174000" />
       <workItem from="1582785735442" duration="16250000" />
       <workItem from="1583081132264" duration="815000" />
+      <workItem from="1583477924423" duration="322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17793000" />
+    <option name="totallyTimeSpent" value="18115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -262,7 +318,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -287,10 +343,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IndexBt1.html">
+    <entry file="file://$PROJECT_DIR$/IndexBt8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndexBt6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -308,31 +371,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IndexBt8.html">
+    <entry file="file://$PROJECT_DIR$/IndexBt1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IndexBt6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="205">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IndexBt4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="415">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IndexBt5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="442">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>

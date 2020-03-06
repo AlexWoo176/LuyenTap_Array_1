@@ -1,13 +1,29 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Chương trình hiển thị số nguyên trong mảng</title>
 </head>
 <body>
-
+<input id="input_arr" type="text" >
+<input id="but_add" type="button" value="ADD" onclick="but_add()" >
+<input id="but_dislay" type="button" value="DISPLAY" onclick="but_display()" >
+<script>
+    let arr = [];
+    let result = [];
+    function but_add() {
+        let in_value = document.getElementById('input_arr').value;
+        arr.push(in_value);
+        console.log(arr);
+        input_arr.value=" ";
+    }
+    function but_display() {
+        for ( let i=0;i<arr.length;i++){
+            if (arr[i]<0){
+                result.push(arr[i])
+            }
+        }document.write(result)
+    }
+</script>
 </body>
 </html>

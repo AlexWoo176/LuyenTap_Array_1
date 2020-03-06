@@ -2,9 +2,42 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Bai 8</title>
 </head>
 <body>
+<input id="input_arr" type="text">
+<input id="but_add" type="button" value="ADD" onclick="but_add()">
+<input id="but_display" type="button" value="DISPLAY" onclick="but_display()">
+<p id="display"></p>
+<script>
+    let arr = [];
+    let count = 0;
+    let result = [];
+    let momery_i = 0;
+    function but_add() {
+        if (count < 10) {
+            let number = +document.getElementById('input_arr').value;
+            arr.push(number);
+            input_arr.value = ' ';
+            console.log(arr);
+            count++
+        }
+    }
+    function but_display() {
+        let a = arr.length;
+        for (let i =0;i<a;i++){
+            let  max = arr[0];
+            for (let j=1; j<arr.length;j++){
+                if (max<arr[j]){
+                    max = arr[j];
+                    momery_i = j;
+                }
+            }result.push(max);
+            arr.splice(momery_i,1);
+            document.getElementById('display').innerHTML='['+' '+result+' '+']';
+        }
 
+    }
+</script>
 </body>
 </html>
